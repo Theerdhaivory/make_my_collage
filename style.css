@@ -1,0 +1,13 @@
+body{
+  background-image: url("HD-wallpaper-aura-aura-color-thumbnail.jpg");
+  background-size: cover;
+  font-family: 'Syne', sans-serif;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox{
+  background-color: #FFCF96;
+}
